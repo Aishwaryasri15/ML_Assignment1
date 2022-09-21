@@ -6,10 +6,10 @@ Vector Machines', 'KNN', 'Logistic Regression’, ‘Random Forest', 'Naive Baye
 
 A: Yes, I can reproduce the classification accuracies of all the above-mentioned models with the Kaggle problem set. The accuracies of the models are as mentioned below,
 
-			Support Vector Machines	: 78.23 % accuracy
+			Support Vector Machines	        : 78.23 % accuracy
 			KNN				: 83.84 % accuracy
 			Logistic Regression		: 80.36 % accuracy
-			Random Forest		: 86.76 % accuracy
+			Random Forest		        : 86.76 % accuracy
 			Naïve Bayes			: 72.28% accuracy
 			Perceptron			: 78.34% accuracy
 			Stochastic Gradient Decent	: 77.10% accuracy
