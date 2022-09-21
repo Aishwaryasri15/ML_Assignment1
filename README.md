@@ -35,15 +35,15 @@ The second step for improving the accuracy of the models is to normalize the age
 
 The accuracies of the model with the above implemented preprocessing techniques are:
 
-Support Vector Machines	: 83.39 % accuracy
+                        Support Vector Machines	        : 83.39 % accuracy
 			KNN				: 87.54 % accuracy
 			Logistic Regression		: 81.26 % accuracy
-			Random Forest		: 94.95 % accuracy
+			Random Forest		        : 94.95 % accuracy
 			Naïve Bayes			: 80.02 % accuracy
 			Perceptron			: 64.31% accuracy
 			Stochastic Gradient Decent	: 79.69% accuracy
 			Linear SVC			: 81.14% accuracy
-	Decision Tree			: 94.95% accuracy
+	                Decision Tree			: 94.95% accuracy
  	 
 This means if we are giving input data of the passenger in the Titanic ship, the Decision Tree, and Random Forest models will produce the result with 94.95% accuracy whether the passenger is going to survive or not. And I feel that these models has bit of overfitting as well.
  
